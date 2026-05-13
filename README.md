@@ -1,27 +1,27 @@
 # 🚀 Hitesh Bhayani
-### **Frontend Lead | Migration Architect | AI-Augmented Delivery**
+### **Frontend Lead | Migration Architect | Engineering Leader**
 
-Frontend Engineer with **9+ years of experience** in enterprise SaaS, specializing in complex technical migrations, performance optimization, and AI-augmented workflows. Currently leading the **AngularJS → Vue 2.7 migration** of the core reporting platform at **TapClicks**.
-
----
-
-## 🏗️ Core Expertise
-- **Migration Architecture:** Leading large-scale legacy-to-modern transitions (AngularJS to Vue 2.7) for high-traffic enterprise platforms.
-- **AI-Augmented Delivery:** Building agentic coding workflows and internal tooling (Claude/Anthropic API) to accelerate development and QA.
-- **Performance Engineering:** Optimizing runtime profiling, Core Web Vitals, and asset delivery (cut lobby load times by 30% at SportyBet).
-- **Engineering Leadership:** Briefing executive leadership on technical risk, mentoring teams of 4+, and owning customer escalations end-to-end.
+I build frontend systems that scale — and lead the teams that ship them. With **9+ years** across enterprise SaaS, EdTech, real-time gaming, and B2B analytics, I architect migration strategies for platforms serving hundreds of thousands of users.
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** Vue 2.7 (Vuex), React, Next.js, TypeScript, D3.js, amCharts, AngularJS, GSAP.
-- **Backend & Tools:** Node.js, PHP, MongoDB, REST APIs, Cypress, Jest, Docker.
-- **AI Tooling:** Prompt Design, Agentic Workflows (Cursor/Claude API).
+## 🏗️ Flagship Impact
+**Lead Migration Architect @ TapClicks**
+Successfully led the full end-to-end migration of an enterprise dashboard from **AngularJS 1.5 to Vue 2.7** — a platform serving **500+ enterprise marketing clients**. 
+- **Ownership:** Architected the migration path, rollout strategy, and cross-team delivery.
+- **Result:** Shipped incrementally with **zero downtime**, retired the legacy stack, and improved platform stability.
 
 ---
 
-## 📅 30-Day Frontend Challenge: "AI Worth" Proof
-I am currently building and deploying a complete, high-polish project every day to demonstrate the power of AI-augmented software delivery. **Scaffolded, coded, and deployed in < 30 mins.**
+## 🛠️ Specialized Expertise
+- **Performance Engineering:** Built real-time gaming UIs at **Apertum Online** where milliseconds matter; optimized Core Web Vitals and SSR at **upGrad** for millions of learners.
+- **Architecture & Systems:** Expert in large-scale migrations, building reusable component systems, and design systems.
+- **Leadership:** Raising engineering standards through mentorship and working at the intersection of product, design, and engineering.
+
+---
+
+## 📅 30-Day "AI Worth" Challenge
+I am currently proving the worth of modern AI by building and deploying a complete, high-polish frontend project every single day for 30 days. **Scaffolded, implemented, and live in < 30 mins.**
 
 - **Day 1:** [Focus Flow](https://github.com/hitesh-bhayani/focus-flow) - Minimalist Pomodoro Timer. [[Live](https://hitesh-bhayani.github.io/focus-flow/)]
 - **Day 2:** [Crypto Pulse](https://github.com/hitesh-bhayani/crypto-pulse) - Real-time Market Dashboard. [[Live](https://hitesh-bhayani.github.io/crypto-pulse/)]
@@ -29,7 +29,13 @@ I am currently building and deploying a complete, high-polish project every day 
 
 ---
 
-## 📊 Impact Metrics
+## 💻 Tech Stack
+- **Frontend:** Vue.js (Vuex), React, TypeScript, Next.js, ES6+, Webpack, D3.js.
+- **Backend & Tools:** Node.js, REST APIs, CI/CD, AI-powered tooling (Claude API).
+
+---
+
+## 📊 GitHub Pulse
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hitesh-bhayani&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-bhayani&theme=radical&hide_border=false" width="48%" />
@@ -43,5 +49,5 @@ I am currently building and deploying a complete, high-polish project every day 
 
 ---
 <p align="center">
-  <i>"Targeting Staff / Lead Frontend roles with a focus on architecture and delivery."</i>
+  <i>"Readability is the new efficiency. Always open to conversations about system design and engineering leadership."</i>
 </p>
