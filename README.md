@@ -27,7 +27,7 @@ Proving the power of AI-augmented delivery by building and deploying a high-poli
 
 - **Day 1:** [Focus Flow](https://github.com/hitesh-bhayani/focus-flow) - Minimalist Pomodoro Timer. [[Live](https://hitesh-bhayani.github.io/focus-flow/)]
 - **Day 2:** [Crypto Pulse](https://github.com/hitesh-bhayani/crypto-pulse) - Real-time Market Dashboard. [[Live](https://hitesh-bhayani.github.io/crypto-pulse/)]
-- **Day 3:** *Building now...*
+- **Day 3:** [MetaShield](https://github.com/hitesh-bhayani/metashield) - Metadata inspector & editor (images + PDF). [[Live](https://hitesh-bhayani.github.io/metashield/)]
 
 ---
 
