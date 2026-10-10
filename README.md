@@ -1,39 +1,43 @@
 # 🚀 Hitesh Bhayani
-### **Frontend Lead | Migration Architect | Engineering Leader**
+### **Lead Frontend Engineer · Enterprise SaaS · Platform Migrations · AI-Augmented Engineering**
 
-I build frontend systems that scale — and lead the teams that ship them. With **9+ years** of experience across enterprise SaaS, EdTech, real-time gaming, and B2B analytics, I architect migration strategies for platforms serving hundreds of thousands of users.
+Frontend engineer with **10 years** in enterprise SaaS, EdTech and real-time gaming, currently leading a team of 4 at TapClicks. I take on the work that has stalled or has no owner — a mid-flight framework migration, a security clean-up — and turn it into something the team can keep running without me.
 
 ---
 
-## 🏗️ Flagship Impact
+## 🏗️ What I'm working on
 **Lead Frontend Engineer @ TapClicks** (Oct 2024 – Present)
-Leading the end-to-end migration of the enterprise dashboard platform from **AngularJS 1.5 to Vue 2.7**, serving **500+ enterprise customers**.
-- **Architecture:** Designed Vue 2.7 component structure, Vuex state management, and Vue Router configuration for a multi-module SaaS platform.
-- **Delivery:** Owned rollout strategy and release sequencing — shipping incrementally with **zero disruption** to live production.
-- **Velocity:** Built a reusable UI component library (Buefy + Custom Design System), significantly accelerating frontend delivery.
-- **Performance:** Introduced code splitting and lazy loading, reducing dashboard load times and future-proofing the UI architecture.
+
+- **Platform migration:** Took over a stalled **AngularJS → Vue** migration of the core reporting platform and carried it to production — dashboards, widgets, Report Studio and export — for **500+ enterprise accounts**, including a full rewrite of a core service that could not be ported incrementally.
+- **No downtime:** Ran legacy and modern stacks side by side, module by module, so feature work continued throughout. Shipped Pivot Table, PowerPoint export and Permalink inside the migration window.
+- **Leverage:** Built the shared component library and design system (Buefy + custom) the platform now runs on; introduced code splitting and lazy loading, and used P95/P99 benchmarking to find and fix production bottlenecks.
+- **Application security:** Started the team's security remediation program and added a **Semgrep gate to CI** that blocks only newly introduced issues, so legacy noise doesn't punish the team.
+- **Agentic engineering:** Built an agentic PR-review workflow (Jira ticket + PR + related changes → requirement coverage, regressions, conflicts) with a human making the final call, and a **Claude API** tool that builds demo dashboards through the product's own APIs and verifies them via a Chrome extension.
 
 ---
 
-## 🛠️ Specialized Expertise
-- **Real-Time Gaming @ Apertum Online:** Built high-performance casino platforms; eliminated rendering bottlenecks to reduce page load times by **~35%** and stabilize frame rates.
-- **Scalable EdTech @ upGrad:** Optimized Next.js/SSR platforms reaching **millions of learners**; focused on Core Web Vitals, SEO, and accessible UI components.
-- **Full-Stack Analytics @ TapClicks (Prior Tenure):** Developed data-rich dashboards using AngularJS and PHP, integrating amCharts and Mapbox for real-time visualization.
+## 🛠️ Before this
+- **SportyBet (Apertum Online) — Senior Frontend Engineer:** cut load time **30%** and grew engagement **25%** on the platform's highest-traffic surface (Vue.js, GSAP).
+- **upGrad — Senior Software Engineer:** rebuilt core marketing pages in Next.js with SSR, lifting visitor-to-lead conversion **20%** and lead-to-payment **5%**.
+- **TapClicks (ReportGarden) — Full Stack Developer:** built the charting library, form engine and data tables the product still runs on; cut production outages **~50%**. Recruited back in 2024 to lead the frontend.
 
 ---
 
-## 📅 30-Day "AI Worth" Challenge
-Proving the power of AI-augmented delivery by building and deploying a high-polish project every single day. **Scaffolded, implemented, and live in < 30 mins.**
+## ⚡ AI-Delivery Sprint
+Small, polished apps taken from scaffold to live deploy with an AI-assisted workflow — each in **under 30 minutes**.
 
-- **Day 1:** [Focus Flow](https://github.com/hitesh-bhayani/focus-flow) - Minimalist Pomodoro Timer. [[Live](https://hitesh-bhayani.github.io/focus-flow/)]
-- **Day 2:** [Crypto Pulse](https://github.com/hitesh-bhayani/crypto-pulse) - Real-time Market Dashboard. [[Live](https://hitesh-bhayani.github.io/crypto-pulse/)]
-- **Day 3:** [MetaShield](https://github.com/hitesh-bhayani/metashield) - Metadata inspector & editor (images + PDF). [[Live](https://hitesh-bhayani.github.io/metashield/)]
+- [Focus Flow](https://github.com/hitesh-bhayani/focus-flow) — Minimalist Pomodoro timer. [[Live](https://hitesh-bhayani.github.io/focus-flow/)]
+- [Crypto Pulse](https://github.com/hitesh-bhayani/crypto-pulse) — Real-time market dashboard. [[Live](https://hitesh-bhayani.github.io/crypto-pulse/)]
+- [MetaShield](https://github.com/hitesh-bhayani/metashield) — In-browser metadata inspector & editor for images and PDFs. [[Live](https://hitesh-bhayani.github.io/metashield/)]
+
+Also building [**MindVault**](https://github.com/hitesh-bhayani/MindVault) — a local, AI-powered knowledge vault (Python, FastHTML, SQLite, local LLM auto-tagging via Ollama).
 
 ---
 
-## 💻 Tech Stack
-- **Frontend:** Vue.js (Vuex), React, TypeScript, Next.js, ES6+, Webpack, D3.js, AngularJS.
-- **Backend & Tools:** Node.js, PHP, REST APIs, CI/CD, Python, AI-powered tooling (Claude/Anthropic API).
+## 💻 Stack
+- **Frontend:** Vue.js (Vuex), React, Next.js, TypeScript, JavaScript (ES6+), AngularJS, SSR, D3.js, amCharts, design systems
+- **AI:** Claude / Anthropic API, MCP, agentic coding (Claude Code, Cursor), multi-agent review pipelines
+- **Backend & Tools:** Node.js, PHP, Python, REST APIs, MongoDB, Jest, Cypress, Docker, CI/CD, Semgrep
 
 ---
 
@@ -51,5 +55,5 @@ Proving the power of AI-augmented delivery by building and deploying a high-poli
 
 ---
 <p align="center">
-  <i>"Readability is the new efficiency. I am targeting Staff / Lead Frontend roles where architecture and mentorship meet."</i>
+  <i>Targeting Staff / Lead Frontend roles where architecture, migration risk and mentorship meet.</i>
 </p>
