@@ -25,6 +25,7 @@ Frontend engineer with **10 years** in enterprise SaaS, EdTech and real-time gam
 
 ## 🧩 Open source
 - [**agentic-pr-review**](https://github.com/hitesh-bhayani/agentic-pr-review) — GitHub Action that checks a pull request against its linked GitHub/Jira ticket with Claude: requirement coverage, likely regressions and overlap with other open PRs, in one comment that updates on every push. A human makes the final call.
+- [**signals-playground**](https://github.com/hitesh-bhayani/signals-playground) — The same reactive graph and benchmarks on Vue reactivity, Preact Signals, Solid, alien-signals and the TC39 Signals polyfill: glitch-freedom, lazy vs eager evaluation and batching, side by side. [[Live](https://hitesh-bhayani.github.io/signals-playground/)]
 
 ---
 
