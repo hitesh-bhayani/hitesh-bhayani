@@ -23,6 +23,11 @@ Frontend engineer with **10 years** in enterprise SaaS, EdTech and real-time gam
 
 ---
 
+## 🧩 Open source
+- [**agentic-pr-review**](https://github.com/hitesh-bhayani/agentic-pr-review) — GitHub Action that checks a pull request against its linked GitHub/Jira ticket with Claude: requirement coverage, likely regressions and overlap with other open PRs, in one comment that updates on every push. A human makes the final call.
+
+---
+
 ## ⚡ AI-Delivery Sprint
 Small, polished apps taken from scaffold to live deploy with an AI-assisted workflow — each in **under 30 minutes**.
 
